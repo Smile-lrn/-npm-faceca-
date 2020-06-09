@@ -1,6 +1,6 @@
 # capro
 
-> A Vue.js project
+> A Vue.js project   使用npm包face-ca
 
 ## Build Setup
 
