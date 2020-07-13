@@ -10,7 +10,7 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "face-ca": "^1.0.9",
+    "face-ca": "^1.1.7",
     "flexible": "^0.1.20",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1"
